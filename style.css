@@ -62,7 +62,7 @@ body, html {
   transition: background 3s;
 }
 .scans-enter {
-  background: rgb(9, 140, 192);
+  background: skyblue;
 }
 .empty {
   font-style: italic;
